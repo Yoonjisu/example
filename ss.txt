@@ -1,2 +1,4 @@
 int a=o;
 int b=2;
+
+print
